@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "RoomLink",
+    "slug": "roomlink",
+    "android": {
+      "package": "com.g18.roomlink"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7ced30e7-1beb-41b5-b1f8-e3cc895b1bb9"
+      }
+    }
+  }
+}

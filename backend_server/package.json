@@ -1,0 +1,15 @@
+{
+  "name": "room-device-server",
+  "version": "1.0.0",
+  "description": "Node.js server for IoT room devices with optional HTTPS",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "basic-auth": "^2.0.1",
+    "mysql2": "^3.6.0"
+  }
+}
